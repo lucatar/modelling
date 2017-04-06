@@ -8730,5 +8730,3 @@ proc config() {
 	set_Na_Kdr_channels()
 	set_Na_Kdr_channels_axon()
 }
-
-config()
